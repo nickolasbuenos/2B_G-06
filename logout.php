@@ -1,1 +1,2 @@
 <?php
+// Logica de logout
